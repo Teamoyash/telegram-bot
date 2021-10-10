@@ -2,9 +2,9 @@
 
 ////////////////=============[Made with ❤️ by TeamOYash]===============////////////////
 
-///https://api.telegram.org/bot1983661883:AAFEMY3qHHrPW7Dv5qophYGBAkItcNsQGqk/setwebhook?url=https://botepic.000webhostapp.com/bot/epic.php
+///https://api.telegram.org/bot1983167070:AAHM2__LVTT9aq3kXEwFugyP7Zw4hbuffM4/setwebhook?url=https://botepic.000webhostapp.com/bot/epic.php
 
-$botToken = "1983661883:AAFEMY3qHHrPW7Dv5qophYGBAkItcNsQGqk"; //
+$botToken = "1983167070:AAHM2__LVTT9aq3kXEwFugyP7Zw4hbuffM4"; //
 $website = "https://api.telegram.org/bot".$botToken;
 error_reporting(0);
 $update = file_get_contents('php://input');
